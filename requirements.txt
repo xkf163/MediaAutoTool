@@ -1,0 +1,6 @@
+# Requirements for MediaAutoTool
+
+# List of all project dependencies
+package_one==1.0.0
+package_two==2.0.1
+# Add additional dependencies as needed
